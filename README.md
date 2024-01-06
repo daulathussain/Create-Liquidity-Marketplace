@@ -6,8 +6,7 @@
 
 Build your own Decentralized Uniswap ERC20 liquidity Marketplace including ERC20 Token sale ICO where you can sell your crypto token, in which you can provide users to create liquidity of any 2 tokens and also find liquidity pool address on any blockchain.
 
-Resource Final Code: https://www.theblockchaincoders.com/sourceCode/build-uniswap-pool-and-liquidity-finder-web3-tools-for-any-networks
-
+Resource Final Code: https://www.theblockchaincoders.com/sourceCode/how-to-create-liquidity-token-marketplace-including-ico-token-sale
 Get Pro Blockchain Developer Course: https://www.theblockchaincoders.com/pro-nft-marketplace
 
 Support Creator: https://bit.ly/Support-Creator
